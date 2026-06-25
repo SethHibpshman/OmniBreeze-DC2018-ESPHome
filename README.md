@@ -81,18 +81,18 @@ Printed Front Cover
 <tr>
 <td align="center">
 <img src="../../wiki/assets/fan_overview.jpg" width="320"><br>
-Fan Overview
+Fan Internals
 </td>
 <td align="center">
 <img src="../../wiki/assets/fan_wiring.jpg" width="320"><br>
-Internal Wiring
+Voltage Dividers & ESP Wiring
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
 <img src="../../wiki/assets/ha_card.png" width="560" alt="Home Assistant Dashboard"><br>
-Home Assistant Dashboard
+Home Assistant Dashboard Card
 </td>
 </tr>
 </table>
