@@ -63,13 +63,47 @@ Both parts were printed in PLA on an Elegoo Neptune 3 Pro.
 
 ## Photos
 
-> *(Add your photos here - suggested structure below)*
+<table>
+<tr>
+<td align="center">
+<img src="../../wiki/assets/smart_fan_shroud_bottom.jpg" width="320"><br>
+LDR Frame Interior
+</td>
+<td align="center">
+<img src="../../wiki/assets/front_panel_insides.jpg" width="320"><br>
+Front Panel Interior
+</td>
+</tr>
 
-| | |
-|---|---|
-| ![Fan internals](images/internals.jpg) | ![LDR frame installed](images/ldr_frame.jpg) |
-| ![Build progress](images/build_progress.jpg) | ![Finished fan](images/finished.jpg) |
-| ![HA dashboard](images/dashboard.jpg) | ![OLED display](images/oled.jpg) |
+<tr>
+<td align="center">
+<img src="../../wiki/assets/smart_fan_shroud_top_fusion.png" width="320"><br>
+Fusion 360 Top Cover Design
+</td>
+<td align="center">
+<img src="../../wiki/assets/front_cover.jpg" width="320"><br>
+Printed Front Cover
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="../../wiki/assets/fan_overview.jpg" width="320"><br>
+Fan Overview
+</td>
+<td align="center">
+<img src="../../wiki/assets/fan_wiring.jpg" width="320"><br>
+Internal Wiring
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="../../wiki/assets/ha_card.png" width="560" alt="Home Assistant Dashboard"><br>
+Home Assistant Dashboard
+</td>
+</tr>
+</table>
 
 ---
 
