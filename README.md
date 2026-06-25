@@ -1,8 +1,6 @@
 # OmniBreeze-DC2018-ESPHome
 
-> Retrofitting a dumb tower fan with ESP32, IR control, and LDR state feedback for full Home Assistant integration.
-
-**By [SethHibpshman](https://github.com/SethHibpshman)**
+> Retrofitting a tower fan with ESP32, IR control, and LDR state feedback for full Home Assistant integration.
 
 ---
 
@@ -154,3 +152,16 @@ Deep-dive documentation is in the [GitHub Wiki](../../wiki):
 - [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/)
 - [Elegoo Neptune 3 Pro](https://www.elegoo.com/)
 - MicroPython (for IR discovery)
+
+
+## Author
+
+**Seth Hibpshman**  
+Student of Electrical Engineering, Eastern Washington University
+
+## AI Disclosure
+_AI (LLM) tools were used for quality assurance review of the firmware and in the drafting and editing of this README and wiki documentation; all code was written by hand._
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
